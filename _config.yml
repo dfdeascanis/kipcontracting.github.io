@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-
+domain : "kipcontracting.github.io"
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/kipcontracting.github.io" # the subpath of your site, e.g. /blog
 
