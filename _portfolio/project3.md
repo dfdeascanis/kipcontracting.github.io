@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Remodeled Shower
-  subtitle: Ater
+  subtitle: After
   thumbnail: assets/img/portfolio/after_shower2.png
   
 #what displays when the item is clicked:
